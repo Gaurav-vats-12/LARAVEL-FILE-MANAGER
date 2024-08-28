@@ -7,7 +7,6 @@
   <a target="_blank" href="https://packagist.org/packages/unisharp/laravel-filemanager"><img src="https://poser.pugx.org/unisharp/laravel-filemanager/v/stable"></a>
   <a target="_blank" href="https://packagist.org/packages/unisharp/laravel-filemanager"><img src="https://poser.pugx.org/unisharp/laravel-filemanager/license"></a>
 </p>
-
 <p align="center">
   <a href="http://unisharp.github.io/laravel-filemanager/">Documents</a>
 ・
